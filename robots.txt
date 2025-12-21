@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://edumeneses.github.io/sitemap.xml
+Sitemap: https://edumeneses.github.io/edumeneses.github.io/sitemap.xml
