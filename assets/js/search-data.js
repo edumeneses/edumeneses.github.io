@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-cv-français",
+          title: "CV (Français)",
+          description: "Ceci est une version abrégée de mon CV. Pour la version complète, téléchargez le PDF.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv-fr/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
