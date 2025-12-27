@@ -36,13 +36,3 @@ As the **Research Director** at the Société des Arts Technologiques (SAT), I d
 I hold a Ph.D. in Music Technology from McGill University (IDMIL and CIRMMT), where I specialized in creating technological solutions, including **IoT**, **gestural control**, **embedded systems**, and **sound spatialization**. I am committed to the open-source philosophy and share my work to empower the worldwide creator community.
 
 Active in the Quebec ecosystem, I combine my engineering background with my practice as a research-creator to build tools that are robust enough for the stage and expressive enough for art exploration.
-
-<!--
-"Press Kit" Version
-
-Edu Meneses is a researcher and strategic leader in the digital arts ecosystem, dedicated to shaping the future of creative technology.
-
-As the Research Director at the Société des Arts Technologiques (SAT), Edu drives the strategic roadmap for innovations in immersion, interaction, and co-creation, uniting fundamental research with applied R&D. He holds a Ph.D. in Music Technology from McGill University (IDMIL and CIRMMT), specializing in IoT, gestural control, embedded systems, and sound spatialization.
-
-Active in the Quebec ecosystem, Edu combines an engineering background with research-creation to build tools that are robust enough for the stage and expressive enough for art exploration.
--->
