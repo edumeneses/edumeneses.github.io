@@ -1,97 +1,77 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Name
+      value: Edu Meneses
+    - name: Location
+      value: Montreal, QC, Canada
+    - name: Email
+      value: eduardo@edumeneses.com
+    - name: Website
+      value: <a href="https://www.edumeneses.com" target="_blank">edumeneses.com</a>
     - name: Languages
-      value: English, German
+      value: English (C2), French (C1), Portuguese (Native), Spanish (B1)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Music Technology
+      institution: McGill University (IDMIL & CIRMMT)
+      year: 2016 - 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - "Dissertation: Iterative design in DMIs and AMIs: expanding and embedding a high-level gesture vocabulary for T-Stick and GuitarAMI."
+        - "Advisors: Marcelo M. Wanderley and Sérgio Freire."
+    - title: Masters in Music Technology
+      institution: University of Campinas (UNICAMP)
+      year: 2014 - 2016
+      description: "Thesis on the development and performance of an augmented musical instrument (GuitarAMI)."
+    - title: BA in Music Composition
+      institution: Santa Marcelina College (FASM)
+      year: 2006 - 2011
+      description: "studied with Leonardo Martineli and Sérgio Cardoso."
+    - title: Associate Degree in Electronics
+      institution: ETE Getúlio Vargas
+      year: 2005 - 2006
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Research Director
+      institution: Société des Arts Technologiques (SAT)
+      year: 2024 - Present
+      description: Leading research initiatives in immersion, digital arts, and embedded systems.
+    - title: Researcher-Developer
+      institution: Société des Arts Technologiques (SAT)
+      year: 2022 - 2024
+      description: Development of Metalu (embedded audio/visual systems) and research in telepresence.
+    - title: Research Assistant
+      institution: IDMIL (McGill University)
+      year: 2016 - 2022
+      description: Worked on the T-Stick, GuitarAMI, and various mapping/DSP projects.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Technical Skills
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - "Hardware: PCB Design (KiCad, Eagle), Microcontrollers (ESP32, Teensy, Arduino), Sensors."
+        - "Software/Firmware: C++, Python, Max/MSP, PureData, SuperCollider, Faust."
+        - "Tools: Git, LaTeX, Linux environments."
+    - title: Artistic Skills
       items:
-        - Description 1.
-        - Description 2.
+        - "Composition (Instrumental & Electronic)"
+        - "Improvisation & Performance"
+        - "Sound Spatialization"
 
-- title: Other Interests
-  type: list
+- title: Selected Compositions
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Imbrications
+      year: 2015
+      description: For augmented guitar (GuitarAMI) and live electronics.
+    - title: Caixinha de Fósforo
+      year: 2014
+      description: For smartphone ensemble.
+    - title: Passo Compasso
+      year: 2012
+      description: Original film score for violin and tap dance.
