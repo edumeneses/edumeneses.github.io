@@ -1,0 +1,77 @@
+- title: Informations Générales
+  type: map
+  contents:
+    - name: Nom
+      value: Edu Meneses
+    - name: Lieu
+      value: Montréal, QC, Canada
+    - name: Courriel
+      value: eduardo@edumeneses.com
+    - name: Site Web
+      value: <a href="https://www.edumeneses.com" target="_blank">edumeneses.com</a>
+    - name: Langues
+      value: Anglais (C2), Français (C1), Portugais (Langue maternelle), Espagnol (B1)
+
+- title: Formation
+  type: time_table
+  contents:
+    - title: Doctorat en technologie musicale
+      institution: Université McGill (IDMIL & CIRMMT)
+      year: 2016 - 2022
+      description:
+        - "Thèse : Conception itérative pour les DMI et AMI : expansion et intégration d'un vocabulaire gestuel de haut niveau."
+        - "Directeurs : Marcelo M. Wanderley et Sérgio Freire."
+    - title: Maîtrise en technologie musicale
+      institution: Université de Campinas (UNICAMP)
+      year: 2014 - 2016
+      description: "Thèse sur le développement et la performance d'un instrument de musique augmenté (GuitarAMI)."
+    - title: Baccalauréat en composition musicale
+      institution: Collège Santa Marcelina (FASM)
+      year: 2006 - 2011
+      description: "Études avec Leonardo Martineli et Sérgio Cardoso."
+    - title: Diplôme d'associé en électronique
+      institution: ETE Getúlio Vargas
+      year: 2005 - 2006
+
+- title: Expérience Professionnelle
+  type: time_table
+  contents:
+    - title: Directeur de recherche
+      institution: Société des Arts Technologiques (SAT)
+      year: 2024 - Présent
+      description: Direction des initiatives de recherche en immersion, arts numériques et systèmes embarqués.
+    - title: Chercheur-Développeur
+      institution: Société des Arts Technologiques (SAT)
+      year: 2022 - 2024
+      description: Développement de Metalu (systèmes audio/visuels embarqués) et recherche en téléprésence.
+    - title: Assistant de recherche
+      institution: IDMIL (Université McGill)
+      year: 2016 - 2022
+      description: Travaux sur le T-Stick, GuitarAMI et divers projets de mapping/DSP.
+
+- title: Compétences
+  type: nested_list
+  contents:
+    - title: Compétences Techniques
+      items:
+        - "Matériel : Conception de PCB (KiCad, Eagle), Microcontrôleurs (ESP32, Teensy, Arduino), Capteurs."
+        - "Logiciel/Firmware : C++, Python, Max/MSP, PureData, SuperCollider, Faust."
+        - "Outils : Git, LaTeX, environnements Linux."
+    - title: Compétences Artistiques
+      items:
+        - "Composition (Instrumentale & Électronique)"
+        - "Improvisation & Performance"
+        - "Spatialisation Sonore"
+
+- title: Compositions Sélectionnées
+  type: time_table
+  contents:
+    - title: Imbrications
+      year: 2015
+      description: Pour guitare augmentée (GuitarAMI) et électronique en direct.
+    - title: Caixinha de Fósforo
+      year: 2014
+      description: Pour ensemble de smartphones.
+    - title: Passo Compasso
+      year: 2012
+      description: Bande originale pour violon et claquettes.
