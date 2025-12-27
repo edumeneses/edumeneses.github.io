@@ -9,8 +9,10 @@
       value: eduardo@edumeneses.com
     - name: Site Web
       value: <a href="https://www.edumeneses.com" target="_blank">edumeneses.com</a>
+    - name: Focus
+      value: Technologue musical, luthier numérique, compositeur et interprète.
     - name: Langues
-      value: Anglais (C2), Français (C1), Portugais (Langue maternelle), Espagnol (B1)
+      value: Anglais (C2), Français (C1), Portugais (Langue maternelle), Espagnol (B2)
 
 - title: Formation
   type: time_table
@@ -24,54 +26,188 @@
     - title: Maîtrise en technologie musicale
       institution: Université de Campinas (UNICAMP)
       year: 2014 - 2016
-      description: "Thèse sur le développement et la performance d'un instrument de musique augmenté (GuitarAMI)."
+      description:
+        - "Thèse : Développement d'un instrument de musique augmenté modifiant les caractéristiques intrinsèques de la guitare."
+        - "Directeurs : José (Tuti) Fornari et Marcelo M. Wanderley."
     - title: Baccalauréat en composition musicale
       institution: Collège Santa Marcelina (FASM)
-      year: 2006 - 2011
-      description: "Études avec Leonardo Martineli et Sérgio Cardoso."
+      year: 2005 - 2011
+      description: "Études avec Leonardo Martineli, Sérgio Cardoso, Lutero Rodrigues."
     - title: Diplôme d'associé en électronique
       institution: ETE Getúlio Vargas
-      year: 2005 - 2006
+      year: 1996 - 1999
 
-- title: Expérience Professionnelle
+- title: Expérience Professionnelle et Recherche
   type: time_table
   contents:
     - title: Directeur de recherche
       institution: Société des Arts Technologiques (SAT)
       year: 2024 - Présent
-      description: Direction des initiatives de recherche en immersion, arts numériques et systèmes embarqués.
+      description:
+        - Définir, coordonner et animer les activités de recherche et de recherche-création.
+        - Diriger l'équipe de recherche (ingénierie numérique, immersion, interaction, co-création).
+        - Assurer le financement des projets par des subventions et partenariats.
     - title: Chercheur-Développeur
       institution: Société des Arts Technologiques (SAT)
-      year: 2022 - 2024
-      description: Développement de Metalu (systèmes audio/visuels embarqués) et recherche en téléprésence.
-    - title: Assistant de recherche
-      institution: IDMIL (Université McGill)
+      year: 2021 - 2024
+      description:
+        - Recherche et développement d'outils de spatialisation audio (Scénophonie).
+        - Conception de systèmes embarqués pour l'art des nouveaux médias.
+        - Développement de contrôleurs gestuels pour les espaces immersifs.
+    - title: Doctorant Chercheur
+      institution: IDMIL, CIRMMT, Université McGill
       year: 2016 - 2022
-      description: Travaux sur le T-Stick, GuitarAMI et divers projets de mapping/DSP.
+      description:
+        - Recherche en mappage (HCI) et expertise en instruments de musique numériques (DMI).
+        - Conception de systèmes embarqués utilisant la Recherche-Création.
+        - Développement de bibliothèques logicielles pour les arts de la scène.
+    - title: Chef d'orchestre assistant
+      institution: OJMG
+      year: 2007 - 2009
+      description: Chef d'orchestre remplaçant, direction de répétition et assistance pour auditions.
+    - title: Agent de télécommunications
+      institution: ANATEL
+      year: 2000 - 2002
+      description: Rédaction de rapports techniques et analyse d'équipements radiofréquences.
+
+- title: Enseignement
+  type: time_table
+  contents:
+    - title: Chargé de cours
+      institution: Université McGill
+      year: 2017 - 2021
+      description:
+        - "Cours : Production nouveaux médias 1 & 2, Principes fondamentaux des nouveaux médias."
+        - "Sujets : Max/MSP, synthèse granulaire, modélisation physique, traitement vidéo (Jitter)."
+    - title: Assistant d'enseignement
+      institution: Université McGill
+      year: 2020
+      description: "Cours : Introduction à l'audio numérique."
+    - title: Coordinateur pédagogique et professeur
+      institution: SMC (Santa Marcelina Cultura)
+      year: 2008 - 2016
+      description:
+        - Coordination du département guitare et cordes frottées (+60 professeurs).
+        - Formation des instructeurs en pédagogie de la guitare et technologie musicale.
+        - Enseignement de la guitare classique en milieux défavorisés.
+
+- title: Projets de Recherche Sélectionnés
+  type: time_table
+  contents:
+    - title: IoT Intermedia
+      institution: SAT/Innovation
+      year: 2024
+      description:
+        - "Outils : C++, Python, ESP32, PlatformIO."
+        - Création d'une boîte à outils IoT pour les créateurs numériques.
+        - Conception de systèmes interactifs autonomes pour la performance.
+    - title: Scénophonie
+      institution: SAT/Innovation
+      year: 2024
+      description:
+        - "Outils : SpartGRIS, ossia score, Max."
+        - Développement d'outils pour la spatialisation sonore volumique complexe.
+    - title: Interaction Collective
+      institution: SAT/Innovation
+      year: 2024
+      description:
+        - "Outils : LivePose, Python."
+        - Méthodes d'acquisition et de cartographie de données pour la vision par ordinateur.
+    - title: Hybridation des espaces
+      institution: SAT/Innovation
+      year: 2024
+      description:
+        - "Outils : TouchDesigner, SuperCollider, Python."
+        - Technologies pour connecter des performances in situ avec des publics distants (téléprésence).
+    - title: Puara
+      institution: SAT/Metalab & IDMIL
+      year: En cours
+      description:
+        - "Outils : C++, Python, ESP32."
+        - Cadriciel pour la construction de nouvelles interfaces pour l'expression musicale (NIME).
+    - title: GuitarAMI
+      institution: IDMIL, Université McGill
+      year: 2016 - 2021
+      description:
+        - "Outils : DSP, C++, SuperCollider, Pure Data."
+        - Système d'augmentation non invasif pour guitare classique.
+        - Algorithmes embarqués temps réel sur ESP32 (délai, réverbération, boucleur gestuel).
+    - title: T-Stick
+      institution: IDMIL, Université McGill
+      year: 2016 - 2021
+      description:
+        - Redesign de l'instrument DMI en utilisant la conception itérative.
+        - Algorithmes de fusion de capteurs et synthèse embarquée.
+    - title: Latence et communication dans les DMI
+      institution: IDMIL, CIRMMT
+      year: 2020
+      description: Étude des protocoles de transmission et de l'impact du jitter sur la performance musicale.
+    - title: Probatio
+      institution: IDMIL, CIRMMT
+      year: 2019
+      description: Boîte à outils open source pour le prototypage de DMI basée sur la morphologie des postures.
 
 - title: Compétences
   type: nested_list
   contents:
-    - title: Compétences Techniques
+    - title: Programmation et Technologie
       items:
-        - "Matériel : Conception de PCB (KiCad, Eagle), Microcontrôleurs (ESP32, Teensy, Arduino), Capteurs."
-        - "Logiciel/Firmware : C++, Python, Max/MSP, PureData, SuperCollider, Faust."
-        - "Outils : Git, LaTeX, environnements Linux."
-    - title: Compétences Artistiques
+        - "Langages : C/C++, Python, Matlab, Max/MSP, Pure Data, SuperCollider, HTML/CSS."
+        - "Outils : ESP32, Fusion 360, Git, Linux, LaTeX, PlatformIO, Visual Studio Code."
+    - title: Compétences Interpersonnelles
       items:
-        - "Composition (Instrumentale & Électronique)"
-        - "Improvisation & Performance"
-        - "Spatialisation Sonore"
+        - "Résolution de problèmes, Recherche, Leadership, Empathie, Créativité, Travail d'équipe."
 
-- title: Compositions Sélectionnées
+- title: Publications (Sélection)
   type: time_table
   contents:
-    - title: Imbrications
+    - title: Real-Time Interactive Graphics on Embedded Systems
+      year: 2025
+      institution: SIGGRAPH
+      description: Bolduc, M., Celerier, J., & Meneses, E. A. L.
+    - title: Reducing technical requirements for remote collaboration
+      year: 2025
+      institution: ISEA
+      description: Bolduc, M., Marin, A., Chioini, S., Boucher, M., & Meneses, E. A. L.
+    - title: "The SAT: A Pioneer in Digital Art"
+      year: 2025
+      institution: ISEA
+      description: Meneses, E. A. L., Bennacer, M., & Paradis, V.
+    - title: "PATRICIA: real-time singing synthesizer"
+      year: 2025
+      institution: SBCM
+      description: Brum, L. A. Z., Meneses, E. A. L., & Moreno, E. D.
+    - title: An IoT toolbox for media arts
+      year: 2024
+      institution: Conf. on Cloud and IoT
+      description: Al Mamoun, S. et al.
+    - title: "La téléprésence scénique"
+      year: 2024
+      institution: Journées d'Informatique Théâtrale
+      description: Paillon, C. & Meneses, E. A. L.
+    - title: The Puara Framework
+      year: 2023
+      institution: NIME
+      description: Meneses, E. A. L., Piquet, T., Noble, J., & Wanderley, M. M.
+
+- title: Œuvres Artistiques et Compositions
+  type: time_table
+  contents:
+    - title: TimeMachine
+      year: 2018
+      description: Patch de comprovisation pour guitare acoustique/électrique.
+    - title: Imbrications (GuitarAMI)
       year: 2015
-      description: Pour guitare augmentée (GuitarAMI) et électronique en direct.
+      description: Pour guitare augmentée et électronique live.
     - title: Caixinha de Fósforo
       year: 2014
       description: Pour ensemble de smartphones.
     - title: Passo Compasso
       year: 2012
-      description: Bande originale pour violon et claquettes.
+      description: Bande sonore originale pour violon et claquettes.
+    - title: De Recife a Manaus
+      year: 2012
+      description: Pour guitare acoustique, contrebasse, piano et batterie.
+    - title: Viagem à Terra
+      year: 2011
+      description: Composition originale pour pièce de théâtre pour enfants.
