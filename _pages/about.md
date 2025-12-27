@@ -15,7 +15,7 @@ profile:
     <p>Your City, State 12345</p>
     -->
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -29,16 +29,20 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Edu Meneses is a strategic leader in the digital arts ecosystem, dedicated to shaping the future of creative technology.
+Hello, I'm **Edu Meneses**. I am a researcher and strategic leader in the digital arts ecosystem, dedicated to shaping the future of creative technology.
 
-As a **Research Director** at the **Société des Arts Technologiques (SAT)**, he bridges the gap between fundamental research, art-science and R&D for the arts. Currently leading research at SAT, Edu drives the strategic roadmap for innovations in immersion, interaction, and co-creation.
+As the **Research Director** at the Société des Arts Technologiques (SAT), I drive the strategic roadmap for innovations in immersion, interaction, and co-creation. My work focuses on uniting fundamental research, art-science, and R&D to empower the arts.
 
-With a Ph.D. in Music Technology from **McGill University** (IDMIL and CIRMMT), his expertise lies in creating technological solutions for the arts. He has been a central figure in the Quebec art-tech community, developing open-source platforms that empower creators, including:
+I hold a Ph.D. in Music Technology from McGill University (IDMIL and CIRMMT), where I specialized in creating technological solutions, including **IoT**, **gestural control**, **embedded systems**, and **sound spatialization**. I am committed to the open-source philosophy and share my work to empower the worldwide creator community.
 
-* **Digital Luthiery:** Designing novel interfaces like the **GuitarAMI** and **T-Stick**, and the **Probatio** prototyping toolkit.
-* **Infrastructure Strategy:** Creating the **Puara** framework to solve critical latency and communication challenges in digital ecosystems.
-* **Public Innovation:** Leading complex implementations for public spaces, such as **Le Vivier Mobile**.
+Active in the Quebec ecosystem, I combine my engineering background with my practice as a research-creator to build tools that are robust enough for the stage and expressive enough for art exploration.
 
-Edu combines technical rigor with a composer’s sensitivity, focusing on how embedded systems and sound spatialization can scale from the lab to the stage.
+<!--
+"Press Kit" Version
 
-Active in the Quebec art-tech ecosystem, Edu combines his background in engineering with his practice as a performer to build tools that are robust enough for the stage and expressive enough for art exploration.
+Edu Meneses is a researcher and strategic leader in the digital arts ecosystem, dedicated to shaping the future of creative technology.
+
+As the Research Director at the Société des Arts Technologiques (SAT), Edu drives the strategic roadmap for innovations in immersion, interaction, and co-creation, uniting fundamental research with applied R&D. He holds a Ph.D. in Music Technology from McGill University (IDMIL and CIRMMT), specializing in IoT, gestural control, embedded systems, and sound spatialization.
+
+Active in the Quebec ecosystem, Edu combines an engineering background with research-creation to build tools that are robust enough for the stage and expressive enough for art exploration.
+-->
