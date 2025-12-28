@@ -27,5 +27,7 @@ Edu’s practice is defined by research-creation, a methodology that fuses acade
 Through his works and projects, Edu investigates complex topics like latency in digital communication, Digital Signal Processing (DSP), and mapping strategies for immersive environments. Whether designing a new instrument or performing live, his goal remains constant: to expand the boundaries of how we create and experience sound.
 
 ## Downloads
-* [Download High-Res Headshot](link-to-your-image.jpg)
-* [Download CV (PDF)](link-to-your-cv.pdf)
+
+[Press Kit]({% link _pages/press.md %})
+* [Download High-Res Headshot]({% link assets/img/Edu.jpg %})
+* [Download CV (PDF)]({% link assets/pdf/example_pdf.pdf %})
