@@ -114,6 +114,13 @@ html[data-theme="dark"] {
   --global-danger-block-text: #ffb9b9;
   --global-danger-block-title: #ffe0e0;
 
+  /* ADD THIS BLOCK HERE: */
+  /* Target any image with "cloudmark" in the filename and invert colors */
+  img[src*="cloudmark"] {
+    filter: invert(1);
+    -webkit-filter: invert(1); /* For Safari compatibility */
+  }
+  
   .only-light {
     display: none;
   }
@@ -160,10 +167,3 @@ html[data-theme-setting="light"] {
   }
 }
 
-/* When the browser is in dark mode... */
-@media (prefers-color-scheme: light) {
-  /* Find your custom logo class and invert the colors (Black becomes White) */
-  .social-icon img[src*="cloudmark.svg"] {
-    filter: invert(1);
-  }
-}
