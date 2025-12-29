@@ -159,3 +159,11 @@ html[data-theme-setting="light"] {
     display: block;
   }
 }
+
+/* When the browser is in dark mode... */
+@media (prefers-color-scheme: light) {
+  /* Find your custom logo class and invert the colors (Black becomes White) */
+  .social-icon img[src*="cloudmark.svg"] {
+    filter: invert(1);
+  }
+}
