@@ -39,6 +39,7 @@ research_gate_profile: Eduardo-Meneses-3 # your profile on ResearchGate
 scholar_userid: rgPfGAMAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
+soundcloud_id: edu-meneses
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
 # strava_userid: # your strava user id
@@ -52,7 +53,7 @@ scholar_userid: rgPfGAMAAAAJ # your Google Scholar ID
 # x_username: # your X handle
 youtube_id: EduMeneses # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: # assets/img/cloudmark.svg # can be png, svg, jpg
-  title: <i class="fa-brands fa-soundcloud"></i> # SoundCloud
-  url: https://soundcloud.com/edu-meneses
+# custom_social: # can be any name here other than the ones already defined above
+#   logo: assets/img/cloudmark.svg # can be png, svg, jpg
+#   title: SoundCloud
+#   url: https://soundcloud.com/edu-meneses
