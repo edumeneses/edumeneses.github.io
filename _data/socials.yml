@@ -53,6 +53,6 @@ scholar_userid: rgPfGAMAAAAJ # your Google Scholar ID
 youtube_id: EduMeneses # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: assets/img/cloudmark.png # can be png, svg, jpg
+  logo: assets/img/cloudmark.svg # can be png, svg, jpg
   title: SoundCloud
   url: https://soundcloud.com/edu-meneses
