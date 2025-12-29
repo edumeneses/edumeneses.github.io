@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "Teste.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "nav-cv-français",
           title: "CV (Français)",
           description: "Ceci est une version abrégée de mon CV. Pour la version complète, téléchargez le PDF.",
