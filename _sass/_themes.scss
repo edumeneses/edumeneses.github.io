@@ -115,10 +115,10 @@ html[data-theme="dark"] {
   --global-danger-block-title: #ffe0e0;
 
   /* ADD THIS BLOCK HERE: */
-  /* Target any image with "cloudmark" in the filename and invert colors */
-  img[src*="cloudmark"] {
-    filter: invert(1);
-    -webkit-filter: invert(1); /* For Safari compatibility */
+  /* Target any image with "cloudmark" in the filename (case-insensitive) */
+  img[src*="cloudmark" i] { 
+    filter: invert(1) !important;
+    -webkit-filter: invert(1) !important;
   }
   
   .only-light {
