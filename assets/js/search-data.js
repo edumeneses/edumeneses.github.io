@@ -525,18 +525,18 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=rgPfGAMAAAAJ", "_blank");
         },
       },{
+        id: 'social-soundcloud_id',
+        title: 'Soundcloud_id',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
         id: 'social-youtube',
         title: 'YouTube',
         section: 'Socials',
         handler: () => {
           window.open("https://youtube.com/@EduMeneses", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://soundcloud.com/edu-meneses", "_blank");
         },
       },{
       id: 'light-theme',
