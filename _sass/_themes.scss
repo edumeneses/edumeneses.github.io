@@ -114,11 +114,13 @@ html[data-theme="dark"] {
   --global-danger-block-text: #ffb9b9;
   --global-danger-block-title: #ffe0e0;
 
-  /* ADD THIS BLOCK HERE: */
-  /* Target any image with "cloudmark" in the filename (case-insensitive) */
-  img[src*="cloudmark" i] { 
+  /* FIX: Removed the 'i' flag for SASS compatibility */
+  img[src*="cloudmark"] { 
     filter: invert(1) !important;
     -webkit-filter: invert(1) !important;
+    
+    /* Debugging line: Remove this after you confirm it works! */
+    border: 2px solid red;
   }
   
   .only-light {
