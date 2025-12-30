@@ -414,6 +414,11 @@ ninja.data = [{
           description: "Puara is a framework for building and deploy new media installations and New Interfaces for Music Expression",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Puara/";
+            },},{id: "projects-freeze",
+          title: 'Freeze!',
+          description: "Augmented drum kit research-creation project",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/freeze/";
             },},{id: "projects-guitarami",
           title: 'GuitarAMI',
           description: "The GuitarAMI is an Augmented Musical Instrument (AMI) using an acoustic guitar. The AMI is part of the Puara framework",
@@ -429,6 +434,11 @@ ninja.data = [{
           description: "Audio and data transmission benchmarks in DMIs and other artistic applications",
           section: "Projects",handler: () => {
               window.location.href = "/projects/latency/";
+            },},{id: "projects-matchbox",
+          title: 'Matchbox',
+          description: "Android-based portable DMI to use in smartphones",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/matchbox/";
             },},{id: "projects-collaboration-sat-x-osm",
           title: 'Collaboration SAT x OSM',
           description: "New immersive experiences for music appreciation",
