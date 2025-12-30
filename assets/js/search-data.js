@@ -409,51 +409,56 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{id: "projects-puara",
+          section: "News",},{id: "projects-puara",
           title: 'Puara',
           description: "Puara is a framework for building and deploy new media installations and New Interfaces for Music Expression",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Puara/";
+            },},{id: "projects-guitarami",
+          title: 'GuitarAMI',
+          description: "The GuitarAMI is an Augmented Musical Instrument (AMI) using an acoustic guitar. The AMI is part of the Puara framework",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/guitarami/";
+            },},{id: "projects-integration-of-new-interfaces-of-gestural-control-in-classical-music-performance",
+          title: 'Integration of new interfaces of gestural control in classical music performance',
+          description: "A series of projects exploring different ways to integrate new interfaces of gestural control in the creative work of classical musicians by exploiting performers’ sound-gesture expertise",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/integration/";
+            },},{id: "projects-latency-and-communication-for-dmis",
+          title: 'Latency and communication for DMIs',
+          description: "Audio and data transmission benchmarks in DMIs and other artistic applications",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/latency/";
+            },},{id: "projects-collaboration-sat-x-osm",
+          title: 'Collaboration SAT x OSM',
+          description: "New immersive experiences for music appreciation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/osm/";
+            },},{id: "projects-probatio",
+          title: 'Probatio',
+          description: "Open-source toolkit for prototyping new digital musical instruments conceived by Filipe Calegário",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/probatio/";
+            },},{id: "projects-satie",
+          title: 'SATIE',
+          description: "Spatial Audio Toolkit for Immersive Environments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/satie/";
+            },},{id: "projects-t-stick",
+          title: 'T-Stick',
+          description: "DMI conceived by Joseph Malloch and D. Andrew Stewart",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tstick/";
+            },},{id: "projects-le-vivier-mobile-t-stick-insertion",
+          title: 'Le Vivier Mobile (T-Stick insertion)',
+          description: "A space for &quot;music and technology&quot; discovery through several interconnected experimental and informational devices, all housed on a mobile platform",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vivier/";
+            },},{id: "projects-the-idmil-digital-audio-workbench",
+          title: 'The IDMIL Digital Audio Workbench',
+          description: "Accessible interactive platform for intuitively exploring key concepts in digital audio",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/workbench/";
             },},{
         id: 'social-academia_edu',
         title: 'Academia_edu',
