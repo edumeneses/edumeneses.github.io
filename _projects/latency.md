@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Puara
-description: Puara is a framework for building and deploy new media installations and New Interfaces for Music Expression
-img: https://avatars.githubusercontent.com/u/104470131?s=200&v=4
+title: Latency and communication for DMIs
+description: Audio and data transmission benchmarks in DMIs and other artistic applications
+img: assets/img/latency.jpg
 importance: 1
 related_publications: true
-category: SAT
-redirect: https://github.com/Puara
+category: IDMIL/CIRMMT/McGill
+redirect: http://www.idmil.org/project/latency/
 ---
 
 Every project has a beautiful feature showcase page.
