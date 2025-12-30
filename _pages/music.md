@@ -1,3 +1,12 @@
+---
+layout: page
+permalink: /music/
+title: Music
+description: Music compositions.
+nav: true
+---
+
+
 2017-21	GuitarAMI series (comprovisation patches) – for classical guitar
 
 2018		TimeMachine (comprovisation patch) – for classical / electric guitar
