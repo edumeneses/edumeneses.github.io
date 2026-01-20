@@ -18,7 +18,7 @@ keywords: Edu Meneses, arts, research, music technology, Eduardo Meneses # add y
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: logo.jpg # ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://edumeneses.github.io # https://www.edumeneses.com # https://alshedivat.github.io # the base hostname & protocol for your site
+url: https://www.edumeneses.com # https://edumeneses.github.io # the base hostname & protocol for your site
 baseurl: "" # /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
