@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-26'
 papers:
   rgPfGAMAAAAJ:-f6ydRqryjwC:
     citations: 29
@@ -86,7 +86,7 @@ papers:
     title: 'New developments on the augmentation of a classical guitar: Addition of embedded sound synthesis and OSC communication over network'
     year: '2017'
   rgPfGAMAAAAJ:isC4tDSrTZIC:
-    citations: 6
+    citations: 7
     title: 'The Puara Framework: Hiding complexity and modularity for reproducibility and usability in NIMEs.'
     year: '2023'
   rgPfGAMAAAAJ:j3f4tGmQtD8C:
