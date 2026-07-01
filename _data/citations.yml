@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-07-01'
 papers:
   rgPfGAMAAAAJ:-f6ydRqryjwC:
     citations: 29
@@ -10,7 +10,7 @@ papers:
     title: "GuitarAMI: um Instrumento Musical Aumentado que Transp\xF5e Restri\xE7\xF5es Intr\xEDnsecas do Viol\xE3o"
     year: '2015'
   rgPfGAMAAAAJ:4JMBOYKVnBMC:
-    citations: 28
+    citations: 34
     title: Documentation and Replicability in the NIME Community
     year: '2021'
   rgPfGAMAAAAJ:9yKSN-GCB0IC:
@@ -22,7 +22,7 @@ papers:
     title: Real-Time Interactive Graphics on Embedded Systems with ossia score, Puara, and Raspberry Pi
     year: '2025'
   rgPfGAMAAAAJ:GnPB-g6toBAC:
-    citations: 0
+    citations: 1
     title: 'Scenophony: An undisciplinary approach to the design of immersive sound storytelling'
     year: '2024'
   rgPfGAMAAAAJ:HDshCWvjkbEC:
@@ -86,11 +86,11 @@ papers:
     title: 'New developments on the augmentation of a classical guitar: Addition of embedded sound synthesis and OSC communication over network'
     year: '2017'
   rgPfGAMAAAAJ:isC4tDSrTZIC:
-    citations: 7
+    citations: 8
     title: 'The Puara Framework: Hiding complexity and modularity for reproducibility and usability in NIMEs.'
     year: '2023'
   rgPfGAMAAAAJ:j3f4tGmQtD8C:
-    citations: 32
+    citations: 33
     title: 'The T-Stick Music Creation Project: An approach to building a creative community around a DMI'
     year: '2021'
   rgPfGAMAAAAJ:k_IJM867U9cC:
