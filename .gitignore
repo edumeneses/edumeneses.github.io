@@ -12,3 +12,8 @@ node_modules/
 vendor
 .idea
 .venv
+
+# Local editor backups — must never be committed: files with front matter are
+# rendered by Jekyll and collide with the pages they back up.
+*.backupclaude*
+*.bak
