@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /music/
-title: Music
-description: Music compositions.
+title: music
+description: Compositions and comprovisation patches for chamber ensembles, classical guitar, and smartphone, from 2007 to 2021, including the GuitarAMI series.
 nav: true
 ---
 
