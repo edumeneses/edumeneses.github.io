@@ -17,3 +17,7 @@ vendor
 # rendered by Jekyll and collide with the pages they back up.
 *.backupclaude*
 *.bak
+
+# Claude Code local config and session artifacts
+.claude/
+CLAUDE.md
