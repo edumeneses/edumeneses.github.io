@@ -35,6 +35,16 @@ ninja.data = [{
           description: "Puara is a framework for building and deploy new media installations and New Interfaces for Music Expression",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Puara/";
+            },},{id: "projects-artia",
+          title: 'ArtIA',
+          description: "A shared artificial intelligence infrastructure for Quebec cultural organizations (proposal, 2025)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/artia/";
+            },},{id: "projects-audiodice",
+          title: 'Audiodice',
+          description: "Dodecahedral omnidirectional loudspeakers for volumetric sound spatialization",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/audiodice/";
             },},{id: "projects-freeze",
           title: 'Freeze!',
           description: "Augmented drum kit research-creation project",
@@ -45,11 +55,26 @@ ninja.data = [{
           description: "The GuitarAMI is an Augmented Musical Instrument (AMI) using an acoustic guitar. The AMI is part of the Puara framework",
           section: "Projects",handler: () => {
               window.location.href = "/projects/guitarami/";
+            },},{id: "projects-hybridization-of-physical-and-virtual-spaces",
+          title: 'Hybridization of physical and virtual spaces',
+          description: "Telepresence, collective interaction, and interoperable prototyping across hybrid venues",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hybridation/";
             },},{id: "projects-integration-of-new-interfaces-of-gestural-control-in-classical-music-performance",
           title: 'Integration of new interfaces of gestural control in classical music performance',
           description: "A series of projects exploring different ways to integrate new interfaces of gestural control in the creative work of classical musicians by exploiting performers’ sound-gesture expertise",
           section: "Projects",handler: () => {
               window.location.href = "/projects/integration/";
+            },},{id: "projects-collective-interaction",
+          title: 'Collective interaction',
+          description: "Computer vision tools for creating collective interaction experiences",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/interaction-collective/";
+            },},{id: "projects-iot-intermedia",
+          title: 'IoT Intermedia',
+          description: "Modular embedded physical computing toolkit for intersensory and embodied immersion",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/iot-intermedia/";
             },},{id: "projects-latency-and-communication-for-dmis",
           title: 'Latency and communication for DMIs',
           description: "Audio and data transmission benchmarks in DMIs and other artistic applications",
@@ -75,6 +100,11 @@ ninja.data = [{
           description: "Spatial Audio Toolkit for Immersive Environments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/satie/";
+            },},{id: "projects-scénophonie",
+          title: 'Scénophonie',
+          description: "Volumetric, allocentric sound spatialization for immersive venues with variable geometry",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/scenophonie/";
             },},{id: "projects-t-stick",
           title: 'T-Stick',
           description: "DMI conceived by Joseph Malloch and D. Andrew Stewart",
