@@ -19,19 +19,19 @@ category: IDMIL/CIRMMT/McGill
 </div>
 -->
 
-*Freeze!* (Jason Noble, 2022) is a composition for gesture-controlled augmented drum kit comissioned by [CIRMMT]() and premiered on the [live@CIRMMT: Student Commissions](https://www.cirmmt.org/en/events/live-cirmmt/student-commissions) concert. 
+_Freeze!_ (Jason Noble, 2022) is a composition for gesture-controlled augmented drum kit comissioned by [CIRMMT](<>) and premiered on the [live@CIRMMT: Student Commissions](https://www.cirmmt.org/en/events/live-cirmmt/student-commissions) concert.
 The instrument was designed by Edu Meneses and the piece is regularly performed by [Martin Daigle](https://martindrum.com/).
 
-The piece, which applies Robert Hasegawa’s theory of post-tonal harmony as spectrally grounded by “virtual fundamentals” (2009), was originally premiered by Daigle at CIRMMT’s MMR. 
+The piece, which applies Robert Hasegawa’s theory of post-tonal harmony as spectrally grounded by “virtual fundamentals” (2009), was originally premiered by Daigle at CIRMMT’s MMR.
 Building on that premiere, the technical architecture of the audio patch was refined to optimize the performer's gestural control (Meneses) and developed a new visual patch that introduced interactive projection and video processing driven by OSC data from the controllers.
 
-The revised version of the piece was recorded in 2025 as an immersive performance inside the [Sociéte des arts technologiques](https://sat.qc.ca/)'s Immersive room, with added 3D video created by Jonah Haché, 
+The revised version of the piece was recorded in 2025 as an immersive performance inside the [Sociéte des arts technologiques](https://sat.qc.ca/)'s Immersive room, with added 3D video created by Jonah Haché,
 
 **Technical and Artistic Achievements**
 
-The composition innovated the augmented drum kit repertoire by utilizing gesture-controlled DSP to grant the drummer control over musical parameters typically outside the instrument’s domain, including harmonization, melodic counterpoint, and refined real-time timbral modification. 
-All sounds in the piece originated from live-captured samples from the drum kit; these were temporally extended using spectral freeze techniques and then transformed and orchestrated in real time. 
-Key transformations included converting noisy sounds into pitched sounds through resonant filters, modifying the degree of pitch focus by manipulating Q values, and applying a harmonizer based on Hasegawa’s virtual fundamentals. 
+The composition innovated the augmented drum kit repertoire by utilizing gesture-controlled DSP to grant the drummer control over musical parameters typically outside the instrument’s domain, including harmonization, melodic counterpoint, and refined real-time timbral modification.
+All sounds in the piece originated from live-captured samples from the drum kit; these were temporally extended using spectral freeze techniques and then transformed and orchestrated in real time.
+Key transformations included converting noisy sounds into pitched sounds through resonant filters, modifying the degree of pitch focus by manipulating Q values, and applying a harmonizer based on Hasegawa’s virtual fundamentals.
 These processes allowed the drum kit’s typically unpitched and transient sounds to be appreciated on a dilated time scale, with timbres amplified, augmented, and recombined in ways that would otherwise be impossible.
 
 **Production Details**
@@ -56,42 +56,42 @@ The final recording utilized state-of-the-art 3D audio recording methods at McGi
 
 Filmed in the Society for arts and technology immersive room.
 
-*Performed By*
+_Performed By_
 Martin Daigle
 
 *Freeze! Composed For augmented drum kit by *
-Jason Noble 
+Jason Noble
 
-*Instrument design & Mapping*
-Edu Meneses 
+_Instrument design & Mapping_
+Edu Meneses
 
-*Immersive video projection design*
+_Immersive video projection design_
 Jonah Haché
 
-*Audio recorded and mixed* 
+_Audio recorded and mixed_
 at Aurum Waves Studio by
 Patrick Martin
 
-*Audio mastered by*
+_Audio mastered by_
 Patrick Martin
 
-*Video directed and edited by*
+_Video directed and edited by_
 Jonah Haché
 
-*Camera Operators*
+_Camera Operators_
 Emmanuel Lacopo
 Jason Noble
-Edu Meneses 
+Edu Meneses
 Jonah Haché
 
-*SAT Immersive Room Technician*
-Lou Evoy 
+_SAT Immersive Room Technician_
+Lou Evoy
 
-*Institutions/sponsors*
+_Institutions/sponsors_
+
 - [CIRMMT](https://www.cirmmt.org/)
 - [SAT](https://sat.qc.ca/)
 - [ACTOR](https://www.actorproject.org/)
 - [Bob Hasegawa](https://www.mcgill.ca/music/robert-hasegawa)
 - [Université de Moncton](https://www.umoncton.ca/)
 - [McGill University](https://www.mcgill.ca/)
-

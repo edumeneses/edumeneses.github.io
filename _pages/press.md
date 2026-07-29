@@ -28,4 +28,4 @@ Through his works and projects, Edu investigates complex topics like latency in 
 
 ## Downloads
 
-* [Download High-Res Headshot]({% link assets/img/Edu.jpg %})
+- [Download High-Res Headshot]({% link assets/img/Edu.jpg %})
