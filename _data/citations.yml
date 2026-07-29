@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-29'
 papers:
   rgPfGAMAAAAJ:-f6ydRqryjwC:
     citations: 30
@@ -10,7 +10,7 @@ papers:
     title: "GuitarAMI: um Instrumento Musical Aumentado que Transp\xF5e Restri\xE7\xF5es Intr\xEDnsecas do Viol\xE3o"
     year: '2015'
   rgPfGAMAAAAJ:4JMBOYKVnBMC:
-    citations: 34
+    citations: 35
     title: Documentation and Replicability in the NIME Community
     year: '2021'
   rgPfGAMAAAAJ:9yKSN-GCB0IC:
@@ -33,10 +33,18 @@ papers:
     citations: 0
     title: An IoT toolbox for media arts
     year: '2024'
+  rgPfGAMAAAAJ:J_g5lzvAfSwC:
+    citations: 0
+    title: 'Unravelling Globalization 4.0: Towards A Political Economy of Time and Space of Labour1'
+    year: '2025'
   rgPfGAMAAAAJ:L8Ckcad2t8MC:
     citations: 0
     title: "Experimentos tecnol\xF3gicos e experi\xEAncias did\xE1ticas na constru\xE7\xE3o e performance de um instrumento musical expandido"
     year: '2016'
+  rgPfGAMAAAAJ:NaGl4SEjCO4C:
+    citations: 1
+    title: Artificial Intelligence, Nanotechnologies and the Dialectics of Life1
+    year: '2025'
   rgPfGAMAAAAJ:O3NaXMp0MMsC:
     citations: 0
     title: "PATRICIA: um sintetizador de canto em tempo real para o portugu\xEAs do Brasil"
@@ -45,6 +53,10 @@ papers:
     citations: 22
     title: 'Probatio 1.0: collaborative development of a toolkit for functional DMI prototypes'
     year: '2020'
+  rgPfGAMAAAAJ:RGFaLdJalmkC:
+    citations: 0
+    title: 'Development and evaluation of PATRICIA: a real-time singing synthesizer for the Brazilian Portuguese language'
+    year: '2026'
   rgPfGAMAAAAJ:RHpTSmoSYBkC:
     citations: 25
     title: Evaluation of inertial sensor data by a comparison with optical motion capture data of guitar strumming gestures
@@ -58,7 +70,7 @@ papers:
     title: "La t\xE9l\xE9pr\xE9sence sc\xE9nique: un nouveau m\xE9dium artistique pour connecter les sc\xE8nes et les publics"
     year: '2024'
   rgPfGAMAAAAJ:_Qo2XoVZTnwC:
-    citations: 16
+    citations: 17
     title: 'Open source DMIs: towards a replication certification for online shared projects of digital musical instruments'
     year: '2020'
   rgPfGAMAAAAJ:bEWYMUwI8FkC:
