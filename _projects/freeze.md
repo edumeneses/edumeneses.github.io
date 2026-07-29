@@ -19,7 +19,7 @@ category: IDMIL/CIRMMT/McGill
 </div>
 -->
 
-_Freeze!_ (Jason Noble, 2022) is a composition for gesture-controlled augmented drum kit comissioned by [CIRMMT](<>) and premiered on the [live@CIRMMT: Student Commissions](https://www.cirmmt.org/en/events/live-cirmmt/student-commissions) concert.
+_Freeze!_ (Jason Noble, 2022) is a composition for gesture-controlled augmented drum kit comissioned by [CIRMMT](https://www.cirmmt.org/) and premiered on the [live@CIRMMT: Student Commissions](https://www.cirmmt.org/en/events/live-cirmmt/student-commissions) concert.
 The instrument was designed by Edu Meneses and the piece is regularly performed by [Martin Daigle](https://martindrum.com/).
 
 The piece, which applies Robert Hasegawa’s theory of post-tonal harmony as spectrally grounded by “virtual fundamentals” (2009), was originally premiered by Daigle at CIRMMT’s MMR.
@@ -59,7 +59,7 @@ Filmed in the Society for arts and technology immersive room.
 _Performed By_
 Martin Daigle
 
-*Freeze! Composed For augmented drum kit by *
+_Freeze! Composed For augmented drum kit by_
 Jason Noble
 
 _Instrument design & Mapping_
