@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-21'
 papers:
   rgPfGAMAAAAJ:-f6ydRqryjwC:
-    citations: 30
+    citations: 27
     title: 'GuitarAMI and GuiaRT: two independent yet complementary Augmented Nylon Guitar projects'
     year: '2018'
   rgPfGAMAAAAJ:2osOgNQ5qMEC:
@@ -26,23 +26,19 @@ papers:
     title: 'Scenophony: An undisciplinary approach to the design of immersive sound storytelling'
     year: '2024'
   rgPfGAMAAAAJ:HDshCWvjkbEC:
-    citations: 9
+    citations: 8
     title: Expanding and embedding a high-level gesture vocabulary for digital and augmented musical instruments
     year: '2020'
   rgPfGAMAAAAJ:JV2RwH3_ST0C:
-    citations: 0
+    citations: 1
     title: An IoT toolbox for media arts
     year: '2024'
-  rgPfGAMAAAAJ:J_g5lzvAfSwC:
-    citations: 0
-    title: 'Unravelling Globalization 4.0: Towards A Political Economy of Time and Space of Labour1'
-    year: '2025'
   rgPfGAMAAAAJ:L8Ckcad2t8MC:
     citations: 0
     title: "Experimentos tecnol\xF3gicos e experi\xEAncias did\xE1ticas na constru\xE7\xE3o e performance de um instrumento musical expandido"
     year: '2016'
   rgPfGAMAAAAJ:NaGl4SEjCO4C:
-    citations: 1
+    citations: 2
     title: Artificial Intelligence, Nanotechnologies and the Dialectics of Life1
     year: '2025'
   rgPfGAMAAAAJ:O3NaXMp0MMsC:
@@ -50,7 +46,7 @@ papers:
     title: "PATRICIA: um sintetizador de canto em tempo real para o portugu\xEAs do Brasil"
     year: '2025'
   rgPfGAMAAAAJ:R3hNpaxXUhUC:
-    citations: 22
+    citations: 21
     title: 'Probatio 1.0: collaborative development of a toolkit for functional DMI prototypes'
     year: '2020'
   rgPfGAMAAAAJ:RGFaLdJalmkC:
@@ -61,8 +57,12 @@ papers:
     citations: 25
     title: Evaluation of inertial sensor data by a comparison with optical motion capture data of guitar strumming gestures
     year: '2020'
+  rgPfGAMAAAAJ:RYcK_YlVTxYC:
+    citations: 0
+    title: 'PATRICIA: proof-of-concept implementation and validation of a real-time singing synthesizer'
+    year: '2025'
   rgPfGAMAAAAJ:UeHWp8X0CEIC:
-    citations: 6
+    citations: 4
     title: "GuitarAMI: Desenvolvimento, Implementa\xE7\xE3o e Performance de um Instrumento Musical Aumentado"
     year: '2016'
   rgPfGAMAAAAJ:YFjsv_pBGBYC:
@@ -70,23 +70,23 @@ papers:
     title: "La t\xE9l\xE9pr\xE9sence sc\xE9nique: un nouveau m\xE9dium artistique pour connecter les sc\xE8nes et les publics"
     year: '2024'
   rgPfGAMAAAAJ:_Qo2XoVZTnwC:
-    citations: 17
-    title: 'Open source DMIs: towards a replication certification for online shared projects of digital musical instruments'
+    citations: 16
+    title: 'Open source DMIs: Towards a replication certification for online shared projects of digital musical instruments'
     year: '2020'
   rgPfGAMAAAAJ:bEWYMUwI8FkC:
     citations: 4
     title: 'Iterative design in DMIs and AMIs: expanding and embedding a high-level gesture vocabulary for T-Stick and GuitarAMI'
     year: '2022'
   rgPfGAMAAAAJ:blknAaTinKkC:
-    citations: 1
+    citations: 2
     title: 'Patricia: a real-time singing synthesizer prototype for the brazilian portuguese language'
     year: '2023'
   rgPfGAMAAAAJ:d1gkVwhDpl0C:
-    citations: 8
+    citations: 7
     title: "Educac\u0327a\u0303o musical atrave\u0301s da improvisac\u0327a\u0303o livre com recursos computacionais: contribuic\u0327o\u0303es e desafios"
     year: '2015'
   rgPfGAMAAAAJ:e5wmG9Sq2KIC:
-    citations: 11
+    citations: 10
     title: The Scalability of WiFi for Mobile Embedded Sensor Interfaces
     year: '2020'
   rgPfGAMAAAAJ:hC7cP41nSMkC:
@@ -102,7 +102,7 @@ papers:
     title: 'The Puara Framework: Hiding complexity and modularity for reproducibility and usability in NIMEs.'
     year: '2023'
   rgPfGAMAAAAJ:j3f4tGmQtD8C:
-    citations: 33
+    citations: 32
     title: 'The T-Stick Music Creation Project: An approach to building a creative community around a DMI'
     year: '2021'
   rgPfGAMAAAAJ:k_IJM867U9cC:
@@ -110,7 +110,7 @@ papers:
     title: Addressing Barriers for Entry and Operation of a Distributed Signal Mapping Framework.
     year: '2023'
   rgPfGAMAAAAJ:mB3voiENLucC:
-    citations: 35
+    citations: 32
     title: A Comparison of Open-Source Linux Frameworks for an Augmented Musical Instrument Implementation
     year: '2019'
   rgPfGAMAAAAJ:maZDTaKrznsC:
@@ -126,7 +126,7 @@ papers:
     title: 'The IDMIL digital audio workbench: An interactive online application for teaching digital audio concepts'
     year: '2021'
   rgPfGAMAAAAJ:u-x6o8ySG0sC:
-    citations: 6
+    citations: 5
     title: "Projeto e constru\xE7\xE3o de uma interface gestual para Improvisa\xE7\xE3o Livre"
     year: '2015'
   rgPfGAMAAAAJ:u5HHmVD_uO8C:
