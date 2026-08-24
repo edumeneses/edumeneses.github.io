@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-24'
 papers:
   rgPfGAMAAAAJ:-f6ydRqryjwC:
     citations: 27
@@ -10,7 +10,7 @@ papers:
     title: "GuitarAMI: um Instrumento Musical Aumentado que Transp\xF5e Restri\xE7\xF5es Intr\xEDnsecas do Viol\xE3o"
     year: '2015'
   rgPfGAMAAAAJ:4JMBOYKVnBMC:
-    citations: 35
+    citations: 36
     title: Documentation and Replicability in the NIME Community
     year: '2021'
   rgPfGAMAAAAJ:9yKSN-GCB0IC:
