@@ -3,6 +3,7 @@ layout: page
 title: PATRICIA
 description: Real-time singing voice synthesis for Brazilian Portuguese
 importance: 1
+img: assets/img/patricia.jpg
 category: UFS
 ---
 

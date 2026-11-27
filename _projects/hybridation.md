@@ -3,6 +3,7 @@ layout: page
 title: Hybridization of physical and virtual spaces
 description: Telepresence, collective interaction, and interoperable prototyping across hybrid venues
 importance: 8
+img: assets/img/hybridation.jpg
 category: SAT
 ---
 

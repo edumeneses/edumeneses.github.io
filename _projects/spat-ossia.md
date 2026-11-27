@@ -3,6 +3,7 @@ layout: page
 title: Spatialization in ossia score
 description: The SpatGRIS spatialization algorithms as a native ossia score process
 importance: 5
+img: assets/img/spat-ossia.jpg
 category: SAT
 ---
 

@@ -3,6 +3,7 @@ layout: page
 title: Pôle numérique art-science
 description: Research-creation residencies and training for Quebec artists, funded by the CALQ (2026 to 2028)
 importance: 1
+img: assets/img/pole-art-science.jpg
 category: SAT
 ---
 

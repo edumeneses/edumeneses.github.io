@@ -3,6 +3,7 @@ layout: page
 title: Collective interaction
 description: Computer vision tools for creating collective interaction experiences
 importance: 4
+img: assets/img/interaction-collective.jpg
 category: SAT
 ---
 

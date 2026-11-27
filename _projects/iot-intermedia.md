@@ -3,6 +3,7 @@ layout: page
 title: IoT Intermedia
 description: Modular embedded physical computing toolkit for intersensory and embodied immersion
 importance: 2
+img: assets/img/iot-intermedia.jpg
 category: SAT
 ---
 
