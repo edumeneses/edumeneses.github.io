@@ -9,7 +9,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-Over 25 peer-reviewed publications, with roughly 266 citations and an h-index of 9 ([Google Scholar](https://scholar.google.com/citations?user=rgPfGAMAAAAJ)).
+Nearly 30 peer-reviewed publications, with 261 citations, an h-index of 8, and an i10-index of 8 ([Google Scholar](https://scholar.google.com/citations?user=rgPfGAMAAAAJ), November 2026).
 
 <!-- Bibsearch Feature -->
 

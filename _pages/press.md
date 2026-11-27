@@ -26,6 +26,12 @@ Edu’s practice is defined by research-creation, a methodology that fuses acade
 
 Through his works and projects, Edu investigates complex topics like latency in digital communication, Digital Signal Processing (DSP), and mapping strategies for immersive environments. Whether designing a new instrument or performing live, his goal remains constant: to expand the boundaries of how we create and experience sound.
 
+## Selected Talks
+
+- 2026: _Instruments, Not Venues: Thirty Years of Research-Creation at the SAT_, invited talk at the Trans-Dimensional Technology & Art Forum, Taiwan Contemporary Culture Lab (C-LAB) and Industrial Technology Research Institute (ITRI), Taipei, Taiwan.
+- 2026: panellist, Civil Society Summit on the AI Industry.
+- 2024: _Emerging Technologies for Innovation_, invited lecture, Global Leaders Institute.
+
 ## Downloads
 
 - [Download High-Res Headshot]({% link assets/img/Edu.jpg %})

@@ -2,7 +2,8 @@
 layout: page
 title: Scénophonie
 description: Volumetric, allocentric sound spatialization for immersive venues with variable geometry
-importance: 2
+importance: 3
+img: assets/img/scenophonie.jpg
 category: SAT
 ---
 

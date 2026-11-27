@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -35,6 +35,6 @@ As the **Research Director** at the [Société des arts technologiques (SAT)](ht
 
 I hold a Ph.D. in Music Technology from McGill University ([IDMIL](https://www.idmil.org/) and [CIRMMT](https://www.cirmmt.org/en)), where I specialized in **embedded systems**, **gestural control**, **IoT**, and **sound spatialization** for digital musical instruments. I am committed to open-source ecosystems that democratize technology for the worldwide creator community, including the [Puara](https://github.com/Puara) framework.
 
-Active in the Quebec ecosystem, I combine an engineering background with my practice as a research-creator to build tools that are robust enough for the stage and expressive enough for artistic exploration. My research record spans over 25 peer-reviewed publications and roughly 266 citations (h-index 9).
+Active in the Quebec ecosystem, I combine an engineering background with my practice as a research-creator to build tools that are robust enough for the stage and expressive enough for artistic exploration. My research record spans nearly 30 peer-reviewed publications and 261 citations (h-index 8).
 
 Check out my [Press Kit]({% link _pages/press.md %}).
