@@ -3,7 +3,7 @@ layout: page
 title: Audiodice
 description: Dodecahedral omnidirectional loudspeakers for volumetric sound spatialization
 img: assets/img/audiodice.jpg
-importance: 7
+importance: 9
 category: SAT
 ---
 

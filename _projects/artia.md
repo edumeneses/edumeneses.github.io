@@ -2,7 +2,7 @@
 layout: page
 title: ArtIA
 description: A shared artificial intelligence infrastructure for Quebec cultural organizations (proposal, 2025)
-importance: 5
+importance: 7
 category: SAT
 ---
 

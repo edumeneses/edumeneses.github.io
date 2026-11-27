@@ -5,7 +5,7 @@ permalink: /projects/
 description: Selected research, research-creation, and instrument-design projects.
 nav: true
 nav_order: 3
-display_categories: [SAT, IDMIL/CIRMMT/McGill, Unicamp]
+display_categories: [SAT, IDMIL/CIRMMT/McGill, UFS, Unicamp]
 horizontal: false
 ---
 
